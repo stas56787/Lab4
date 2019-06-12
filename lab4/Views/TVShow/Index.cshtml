@@ -1,0 +1,48 @@
+﻿@using lab4.ViewModels
+@model TVShowsViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <div class="data-search">
+        @using (Html.BeginForm("Index", "TVShow", FormMethod.Post))
+        {
+            <fieldset>
+                Название шоу: @Html.TextBox("TVShowName", Model.TVShowViewModel.NameShow)
+                <input type="submit" value="Найти" />
+            </fieldset>
+        }
+    </div>
+    <div>
+        Информация о шоу
+        <table>
+            <tr>
+                <td><a asp-controller="TVShow" asp-action="Index" asp-route-sortOrder="@ViewBag.NameSort">Название</a></td>
+                <td>Длитльность</td>
+                <td>Рейтинг</td>
+                <td>Описание</td>
+            </tr>
+            @foreach (TVShow i in Model.PageViewModel)
+            {
+                <tr>
+
+                    <td>@i.NameShow</td>
+                    <td>@i.Duration</td>
+                    <td>@i.Rating</td>
+                    <td>@i.DescriptionShow</td>
+                </tr>
+            }
+        </table>
+        <div>
+            <a asp-controller="TVShow" asp-action="Index" asp-route-index="-1">
+                <<
+            </a>
+            @(Model.PageNumber + 1)
+            <a asp-controller="TVShow" asp-action="Index" asp-route-index="1">
+                >>
+            </a>
+        </div>
+    </div>
+
+</div>

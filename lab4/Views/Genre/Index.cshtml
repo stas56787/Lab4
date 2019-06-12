@@ -1,0 +1,42 @@
+﻿@using lab4.ViewModels
+@model GenresViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    <div class="data-search">
+        @using (Html.BeginForm("Index", "Genre", FormMethod.Post))
+        {
+            <fieldset>
+                Название: @Html.TextBox("GenreName", Model.GenreViewModel.NameGenre)
+                <input type="submit" value="Найти" />
+            </fieldset>
+        }
+    </div>
+    <div>
+        Жанры
+        <table>
+            <tr>
+                <td><a asp-controller="Genre" asp-action="Index" asp-route-sortOrder="@ViewBag.NameSort">Название</a></td>
+                <td>Описание</td>
+            </tr>
+            @foreach (Genre i in Model.PageViewModel)
+            {
+            <tr>
+                <td>@i.NameGenre</td>
+                <td>@i.DescriptionOfGenre</td>
+            </tr>
+            }
+        </table>
+        <div>
+            <a asp-controller="Genre" asp-action="Index" asp-route-index="-1">
+                <<
+            </a>
+            @(Model.PageNumber+1)
+            <a asp-controller="Genre" asp-action="Index" asp-route-index="1">
+                >>
+            </a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1665 @@
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request finished in 53.9578ms 200 
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7466ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 157.624ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 202.244ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 45.6377ms 200 
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8893ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 176.9525ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 219.8209ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 2595.4744ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 60.7671ms 200 application/javascript
+Request finished in 65.2093ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 99.7422ms 200 text/css
+Request finished in 142.6747ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 158.6111ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.4924ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 132.4685ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 159.6316ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Session started; Key:abf9fbf2-d1e1-e283-5f41-68f37933eb57, Id:97948f88-8d56-e1b7-52f3-5068481227f3
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 219.2498ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 21.8226ms 200 application/javascript
+Request finished in 23.6084ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 79.2644ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 92.9644ms 200 application/javascript
+Request finished in 113.5116ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1906ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 11.5777ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 28.4049ms
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 92.1267ms 200 text/html; charset=utf-8
+Request finished in 31.6422ms 200 application/javascript
+Request finished in 52.2609ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 90.8471ms 200 application/javascript
+Request finished in 127.6222ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 169.9ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (NameAsc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8151ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 11.0453ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 21.1142ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 45.8351ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 5379.3646ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 5406.5904ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 5468.7437ms 200 application/javascript
+Request finished in 5463.1877ms 200 application/javascript
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HLN2EVFEA4L0", Request id "0HLN2EVFEA4L0:00000004": An unhandled exception was thrown by the application.
+Request finished in 5597.9811ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.5937ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.7235ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 21.0911ms
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 68.6511ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 95.9502ms 200 application/javascript
+Request finished in 106.4738ms 200 text/css
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 155.1942ms 200 text/css
+Request finished in 159.2138ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 190.8049ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (NameAsc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6946ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.3746ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 13.7653ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 33.9613ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 33.3622ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 72.4644ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 77.6342ms 200 text/css
+Request finished in 77.4942ms 200 application/javascript
+Request finished in 90.5987ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 34.5413ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 34.1133ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 80.9484ms
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 112.0476ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 41.1457ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 58.5724ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 67.1964ms 200 text/css
+Request finished in 80.8235ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 123.7444ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1137ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 10.6226ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 19.8164ms
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request finished in 37.3569ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 47.0644ms 200 text/css
+Request finished in 51.976ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 102.3516ms 200 text/css
+Request finished in 123.0182ms 200 application/javascript
+Request finished in 157.8978ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (NameAsc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8311ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 10.8088ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 25.6577ms
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 18.1586ms 200 application/javascript
+Request finished in 77.228ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 51.6129ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 84.9382ms 200 text/css
+Request finished in 91.4787ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 90.2382ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Treatment  
+Executing endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Route matched with {action = "Index", controller = "Treatment"}. Executing action lab4.Controllers.TreatmentController.Index (lab4)
+Executing action method lab4.Controllers.TreatmentController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.TreatmentController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.3408ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 37.4257ms.
+Executed action lab4.Controllers.TreatmentController.Index (lab4) in 53.0693ms
+Executed endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 84.3795ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 24.7484ms 200 text/css
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 90.3693ms 200 application/javascript
+Request finished in 107.9133ms 200 text/css
+Request finished in 133.4373ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 164.92ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Treatment?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Route matched with {action = "Index", controller = "Treatment"}. Executing action lab4.Controllers.TreatmentController.Index (lab4)
+Executing action method lab4.Controllers.TreatmentController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.TreatmentController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.5048ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 12.7617ms.
+Executed action lab4.Controllers.TreatmentController.Index (lab4) in 23.9253ms
+Executed endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Request finished in 53.1524ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 52.6409ms 200 text/css
+Request finished in 94.6458ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 133.6933ms 200 text/css
+Request finished in 137.484ms 200 application/javascript
+Request finished in 138.4347ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Treatment?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Route matched with {action = "Index", controller = "Treatment"}. Executing action lab4.Controllers.TreatmentController.Index (lab4)
+Executing action method lab4.Controllers.TreatmentController.Index (lab4) with arguments (NameAsc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.TreatmentController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8048ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 11.6822ms.
+Executed action lab4.Controllers.TreatmentController.Index (lab4) in 22.2204ms
+Executed endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Request finished in 49.6733ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 31.6862ms 200 application/javascript
+Request finished in 45.404ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 87.4769ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 99.2773ms 200 application/javascript
+Request finished in 111.7827ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Patient  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.5204ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 152.6156ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 167.1565ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 200.348ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 39.4169ms 200 application/javascript
+Request finished in 58.8929ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 73.1649ms 200 text/css
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 85.248ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 145.4325ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7195ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.5257ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 16.8426ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 56.08ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 46.0515ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 90.6858ms 200 text/css
+Request finished in 89.0115ms 200 application/javascript
+Request finished in 96.9133ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 142.8569ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Patient  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7124ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.4142ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 14.8222ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request finished in 45.568ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 41.8706ms 200 application/javascript
+Request finished in 47.0249ms 200 text/css
+Request finished in 77.3373ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 94.7644ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 95.6933ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Patient?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.2511ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 12.66ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 24.9026ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request finished in 63.1369ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 53.2351ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 131.7067ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 147.0138ms 200 application/javascript
+Request finished in 192.8058ms 200 application/javascript
+Request finished in 110.9733ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Patient?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (NameAsc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8404ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 14.68ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 26.4937ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request finished in 56.3022ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 55.9511ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 64.6266ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 91.7667ms 200 text/css
+Request finished in 94.9622ms 200 application/javascript
+Request finished in 76.1244ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Patient?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (NameDesc, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7604ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.4511ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 15.3222ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request finished in 41.5373ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request finished in 36.5164ms 200 application/javascript
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 68.9284ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 92.2982ms 200 application/javascript
+Request finished in 98.2071ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 106.0756ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0422ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 3.8417ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 13.4248ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 8439.8459ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 8436.0344ms 200 application/javascript
+Connection processing ended abnormally.
+Request finished in 8459.1815ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 8496.2513ms 200 application/javascript
+Request finished in 8499.4268ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7973ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.0791ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 15.2724ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 45.116ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 42.9986ms 200 application/javascript
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 52.4884ms 200 text/css
+Request finished in 59.3151ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 102.4724ms 200 text/css
+Request finished in 93.5369ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7008ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.9315ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 17.2302ms
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 104.8124ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 65.0564ms 200 text/css
+Request finished in 79.7778ms 200 text/css
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 98.6351ms 200 application/javascript
+Request finished in 126.5365ms 200 application/javascript
+Request finished in 116.5396ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7564ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.4293ms.
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 38.7071ms
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 75.2489ms 200 text/html; charset=utf-8
+Request finished in 41.1506ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 93.5955ms 200 application/javascript
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 101.2058ms 200 text/css
+Request finished in 110.0178ms 200 application/javascript
+Request finished in 87.8698ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7902ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.7968ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 27.8102ms
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 48.6395ms 200 application/javascript
+Request finished in 87.2978ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 108.8969ms 200 text/css
+Request finished in 119.368ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 83.8218ms 200 text/html; charset=utf-8
+Request finished in 133.7685ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7995ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.6857ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 23.6013ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 73.7378ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 51.5049ms 200 text/css
+Request finished in 53.9062ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 72.3618ms 200 text/css
+Request finished in 101.3516ms 200 application/javascript
+Request finished in 103.7502ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7551ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 7.2057ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 20.7577ms
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Connection processing ended abnormally.
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Connection processing ended abnormally.
+Request finished in 8495.6646ms 200 application/javascript
+Request finished in 8514.034ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 3134.748ms 200 application/javascript
+Request finished in 74.9418ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7377ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 7.4471ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 18.104ms
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 5286.8583ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+An unhandled exception has occurred while executing the request.
+Request finished in 5334.6019ms 200 application/javascript
+The response has already started, the error page middleware will not be executed.
+Request finished in 5363.3414ms 200 text/css
+An unhandled exception has occurred while executing the request.
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+The response has already started, the error page middleware will not be executed.
+Request finished in 5396.6859ms 200 application/javascript
+Connection id "0HLN2EVFEA4L6", Request id "0HLN2EVFEA4L6:00000007": An unhandled exception was thrown by the application.
+Request finished in 5564.6851ms 200 text/html; charset=utf-8
+Connection id "0HLN2EVFEA4L8", Request id "0HLN2EVFEA4L8:00000001": An unhandled exception was thrown by the application.
+Request finished in 5526.87ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0191ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 3.1191ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 13.3955ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 65.8102ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 6987.8315ms 200 application/javascript
+Connection processing ended abnormally.
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 7041.6382ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 7061.5702ms 200 application/javascript
+Request finished in 96.8231ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7311ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 7.2262ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 19.3342ms
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request finished in 44.8702ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 47.9657ms 200 application/javascript
+Request finished in 74.9422ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 86.8622ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 89.808ms 200 text/css
+Request finished in 95.7795ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.016ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 3.1324ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 14.4026ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 87.5307ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 22.3257ms 200 text/css
+Request finished in 28.2631ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 38.9631ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 37.9466ms 200 application/javascript
+Request finished in 61.0338ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Home/About  
+Executing endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Route matched with {action = "About", controller = "Home"}. Executing action lab4.Controllers.HomeController.About (lab4)
+Executing action method lab4.Controllers.HomeController.About (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.About (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2006.9173ms.
+Executing ViewResult, running view About.
+Executed ViewResult - view About executed in 24.6991ms.
+Executed action lab4.Controllers.HomeController.About (lab4) in 2042.8431ms
+Executed endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 2082.9031ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 37.052ms 200 text/css
+Request finished in 55.7258ms 200 application/javascript
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 103.5822ms 200 application/javascript
+Request finished in 121.2236ms 200 text/css
+Request finished in 119.3453ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0164ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.3893ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 16.5986ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 52.6306ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 49.1275ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 56.9924ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 71.7671ms 200 application/javascript
+Request finished in 77.5462ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 84.6013ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Home/About2  
+Processing request /Home/About2
+Request finished in 10.8191ms 200 
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0275ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.1786ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 14.1408ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request finished in 38.536ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 27.1449ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Connection processing ended abnormally.
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 7415.4166ms 200 application/javascript
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Request finished in 7408.1992ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0217ms.
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Executing ViewResult, running view Index.
+Request finished in 7449.1961ms 200 application/javascript
+Executed ViewResult - view Index executed in 31.7773ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 50.04ms
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 126.9805ms 200 text/html; charset=utf-8
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 34.8809ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 71.6431ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 87.6995ms 200 text/css
+Request finished in 116.5342ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 159.5911ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7453ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.224ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 14.2884ms
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 44.2911ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 34.068ms 200 application/javascript
+Request finished in 40.2329ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 79.1947ms 200 application/javascript
+Request finished in 79.9858ms 200 application/javascript
+Request finished in 72.6755ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Treatment  
+Executing endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Route matched with {action = "Index", controller = "Treatment"}. Executing action lab4.Controllers.TreatmentController.Index (lab4)
+Executing action method lab4.Controllers.TreatmentController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.TreatmentController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6768ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.8888ms.
+Executed action lab4.Controllers.TreatmentController.Index (lab4) in 16.3395ms
+Executed endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Request finished in 47.6533ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 46.0471ms 200 application/javascript
+Request finished in 73.5769ms 200 application/javascript
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 101.6516ms 200 text/css
+Request finished in 110.6236ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 133.8249ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Patient  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6315ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.9564ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 16.888ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request finished in 41.0071ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 67.1995ms 200 application/javascript
+Request finished in 82.4013ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 111.8636ms 200 text/css
+Request finished in 138.6329ms 200 application/javascript
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 154.1151ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6466ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.6102ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 15.9457ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 64.652ms 200 text/html; charset=utf-8
+Connection processing ended abnormally.
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 1443.1624ms 200 text/css
+Request finished in 1446.8499ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request finished in 1460.4406ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 1485.3811ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 12.8222ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?index=1  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 1) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9168ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 10.0644ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 23.564ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 77.5169ms 200 text/html; charset=utf-8
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 57.0769ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 75.1662ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 87.9298ms 200 application/javascript
+Request finished in 96.048ms 200 application/javascript
+Request finished in 59.9809ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?index=1  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 1) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6915ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.4115ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 13.7422ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 37.5275ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 66.2151ms 200 application/javascript
+Request finished in 77.236ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 96.5209ms 200 application/javascript
+Request finished in 43.892ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 129.4031ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine?index=1  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 1) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7462ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.1213ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 14.7071ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 46.492ms 200 text/html; charset=utf-8
+Request finished in 27.8809ms 200 application/javascript
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 49.8373ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 101.8249ms 200 text/css
+Request finished in 107.2884ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 116.0027ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6284ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 3.9733ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 13.9555ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 44.5133ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request finished in 25.7071ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 47.8009ms 200 text/css
+Request finished in 55.8422ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 77.8169ms 200 application/javascript
+Request finished in 88.7907ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6386ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.9204ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 15.7804ms
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 88.8164ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 42.4991ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 50.8155ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 87.3849ms 200 text/css
+Request finished in 103.1431ms 200 application/javascript
+Request finished in 84.2667ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7257ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.4502ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 16.6066ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 51.8529ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 45.0133ms 200 text/css
+Request finished in 49.152ms 200 application/javascript
+Request finished in 53.4075ms 200 text/css
+Request finished in 50.9404ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 79.856ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.6337ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.0093ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 15.3328ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 46.1973ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 39.244ms 200 application/javascript
+Request finished in 35.8844ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 88.7315ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 94.8649ms 200 application/javascript
+Request finished in 87.2662ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7271ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 3.7524ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 15.3293ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 39.7049ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 32.0777ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Connection processing ended abnormally.
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 1715.3145ms 200 text/css
+Request finished in 1723.2869ms 200 application/javascript
+Request finished in 1690.418ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.8648ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.7422ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 20.1062ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request finished in 49.3377ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 34.8826ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 53.6915ms 200 
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing action lab4.Controllers.HomeController.Index (lab4)
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7284ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 295.4254ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 329.3721ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request finished in 2774.0656ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 35.1804ms 200 application/javascript
+Request finished in 57.928ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 97.9049ms 200 text/css
+Request finished in 92.8502ms 200 application/javascript
+Request finished in 112.6102ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Medicine  
+Executing endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Route matched with {action = "Index", controller = "Medicine"}. Executing action lab4.Controllers.MedicineController.Index (lab4)
+Executing action method lab4.Controllers.MedicineController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.MedicineController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.6951ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 153.8174ms.
+Executed action lab4.Controllers.MedicineController.Index (lab4) in 348.0837ms
+Executed endpoint 'lab4.Controllers.MedicineController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Session cache read exception, Key:893b3c4a-7812-3c1c-3a0d-3973fe2894dd
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 9179.6254ms 200 text/css
+Request finished in 9183.7356ms 200 application/javascript
+Request finished in 10061.8871ms 200 text/html; charset=utf-8
+Request finished in 9184.1667ms 200 text/css
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Unexpected exception in HttpConnection.ProcessRequestsAsync.
+Request finished in 9996.9768ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 23.0768ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/Disease  
+Executing endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Route matched with {action = "Index", controller = "Disease"}. Executing action lab4.Controllers.DiseaseController.Index (lab4)
+Executing action method lab4.Controllers.DiseaseController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.DiseaseController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.5275ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 61.7564ms.
+Executed action lab4.Controllers.DiseaseController.Index (lab4) in 109.1067ms
+Executed endpoint 'lab4.Controllers.DiseaseController.Index (lab4)'
+Request finished in 249.9227ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Request finished in 5830.8777ms 200 application/javascript
+Unexpected exception in HttpConnection.ProcessRequestsAsync.
+An unhandled exception has occurred while executing the request.
+Request finished in 1794.9496ms 200 application/javascript
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+The response has already started, the error page middleware will not be executed.
+Request finished in 1829.4777ms 200 text/css
+Connection id "0HLN2FIJE63G7", Request id "0HLN2FIJE63G7:00000003": An unhandled exception was thrown by the application.
+Request finished in 5912.2964ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/Treatment  
+Executing endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Route matched with {action = "Index", controller = "Treatment"}. Executing action lab4.Controllers.TreatmentController.Index (lab4)
+Executing action method lab4.Controllers.TreatmentController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.TreatmentController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 7.7235ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 78.3222ms.
+Executed action lab4.Controllers.TreatmentController.Index (lab4) in 135.0858ms
+Executed endpoint 'lab4.Controllers.TreatmentController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 211.328ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+An unhandled exception has occurred while executing the request.
+Request finished in 3187.1183ms 200 text/css
+Request finished in 3175.6534ms 200 application/javascript
+The response has already started, the error page middleware will not be executed.
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 3219.1325ms 200 application/javascript
+Connection processing ended abnormally.
+Connection processing ended abnormally.
+Request starting HTTP/1.1 GET http://localhost:44390/Patient  
+Executing endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Route matched with {action = "Index", controller = "Patient"}. Executing action lab4.Controllers.PatientController.Index (lab4)
+Executing action method lab4.Controllers.PatientController.Index (lab4) with arguments (No, 0) - Validation state: Valid
+Executed action method lab4.Controllers.PatientController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.5284ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 30.6906ms.
+Executed action lab4.Controllers.PatientController.Index (lab4) in 89.4364ms
+Executed endpoint 'lab4.Controllers.PatientController.Index (lab4)'
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request finished in 159.4822ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Sending file. Request path: '/css/site.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\css\site.css'
+Sending file. Request path: '/js/site.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Request finished in 90.9022ms 200 application/javascript
+Request finished in 114.5578ms 200 application/javascript
+Request finished in 90.4444ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'z:\Универ\ИГИ\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 193.8103ms 200 text/css
+Request finished in 186.1049ms 200 application/javascript
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 275.7309ms 200 
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 170.92ms 200 
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 108.2005ms 200 
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 42.8561ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 678.7883ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 1769.4971ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request finished in 4921.3251ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/lib/jquery/dist/jquery.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/js/bootstrap.bundle.js  
+Request starting HTTP/1.1 GET http://localhost:44390/lib/bootstrap/dist/css/bootstrap.css  
+Request starting HTTP/1.1 GET http://localhost:44390/css/site.css  
+Request starting HTTP/1.1 GET http://localhost:44390/js/site.js?v=TGOH2ESgtBkJeU7NDUqxL2702-FA_nHuWCBAO7UUeLs  
+Sending file. Request path: '/js/site.js'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\js\site.js'
+Sending file. Request path: '/css/site.css'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\css\site.css'
+Request finished in 142.4003ms 200 application/javascript
+Request finished in 142.1512ms 200 text/css
+Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.js'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js'
+Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+Request finished in 342.0409ms 200 application/javascript
+Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\lib\jquery\dist\jquery.js'
+Request finished in 352.1067ms 200 application/javascript
+Request finished in 351.7144ms 200 text/css
+Request starting HTTP/1.1 GET http://localhost:44390/favicon.ico  
+Sending file. Request path: '/favicon.ico'. Physical path: 'D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\lab4\lab4\lab4\wwwroot\favicon.ico'
+Request finished in 8.03ms 200 image/x-icon
+Request starting HTTP/1.1 GET http://localhost:44390/Genre  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 31.2083ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 520.7493ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 582.3364ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Session started; Key:c89d0839-c6b8-6b3e-196e-09f04cfe8eca, Id:5c102485-156a-69cb-4777-0b6a2073ea4e
+Request finished in 706.8456ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.9737ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 119.2448ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 140.2384ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 165.9037ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.5413ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 14.0016ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 28.5346ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 50.1951ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1437ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 26.1455ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 43.8398ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 65.1ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9727ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.8846ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 21.4973ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 42.3227ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/TVShow  
+Executing endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Route matched with {action = "Index", controller = "TVShow"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.TVShowController (lab4).
+Executing action method lab4.Controllers.TVShowController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.TVShowController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 6.8452ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 72.1316ms.
+Executed action lab4.Controllers.TVShowController.Index (lab4) in 92.2819ms
+Executed endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Request finished in 120.4629ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/CitizensAppeal  
+Executing endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Route matched with {action = "Index", controller = "CitizensAppeal"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.CitizensAppealController (lab4).
+Executing action method lab4.Controllers.CitizensAppealController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.CitizensAppealController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.6606ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 94.6182ms.
+Executed action lab4.Controllers.CitizensAppealController.Index (lab4) in 121.2204ms
+Executed endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Request finished in 199.7022ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 6.1685ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 163.361ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 180.743ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 295.5608ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.1412ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 24.588ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 47.4335ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 72.97ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1485ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 13.8347ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 26.1313ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 47.0002ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0756ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 7.1356ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 25.5292ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 52.2858ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 10.7529ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.0168ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 66.2277ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 397.2047ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameDesc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.9919ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.496ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 34.1337ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 64.1315ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek?sortOrder=NameAsc  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.7151ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.8896ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 19.6012ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 77.6859ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/CitizensAppeal  
+Executing endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Route matched with {action = "Index", controller = "CitizensAppeal"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.CitizensAppealController (lab4).
+Executing action method lab4.Controllers.CitizensAppealController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.CitizensAppealController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9468ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 11.1438ms.
+Executed action lab4.Controllers.CitizensAppealController.Index (lab4) in 20.2475ms
+Executed endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Request finished in 39.6263ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/TVShow  
+Executing endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Route matched with {action = "Index", controller = "TVShow"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.TVShowController (lab4).
+Executing action method lab4.Controllers.TVShowController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.TVShowController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9873ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 9.5814ms.
+Executed action lab4.Controllers.TVShowController.Index (lab4) in 22.7317ms
+Executed endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Request finished in 46.4701ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.0283ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 11.1841ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 30.9377ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 96.1322ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0439ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 4.0955ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 17.6654ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request finished in 46.4056ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Home/About  
+Executing endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Route matched with {action = "About", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult About() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.About (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.About (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2007.0022ms.
+Executing ViewResult, running view About.
+Executed ViewResult - view About executed in 12.7981ms.
+Executed action lab4.Controllers.HomeController.About (lab4) in 2034.4164ms
+Executed endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Request finished in 2065.1666ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Home/About2  
+Processing request /Home/About2
+Request finished in 13.3202ms 200 
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Request starting HTTP/1.1 DEBUG http://localhost:52844/  0
+Request finished in 151.8488ms 200 
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.2629ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 215.0276ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 245.4237ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request finished in 2919.3334ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 5.1783ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 255.6994ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 296.7206ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Session started; Key:aa98b627-0f33-2f65-6c4f-928b659724f8, Id:eded214a-710e-102c-9014-55e206c0c1c3
+Request finished in 376.4149ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/TVShow  
+Executing endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Route matched with {action = "Index", controller = "TVShow"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.TVShowController (lab4).
+Executing action method lab4.Controllers.TVShowController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.TVShowController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 11.3763ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 48.764ms.
+Executed action lab4.Controllers.TVShowController.Index (lab4) in 99.5258ms
+Executed endpoint 'lab4.Controllers.TVShowController.Index (lab4)'
+Request finished in 134.2607ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/CitizensAppeal  
+Executing endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Route matched with {action = "Index", controller = "CitizensAppeal"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.CitizensAppealController (lab4).
+Executing action method lab4.Controllers.CitizensAppealController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.CitizensAppealController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.8611ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 46.527ms.
+Executed action lab4.Controllers.CitizensAppealController.Index (lab4) in 60.9463ms
+Executed endpoint 'lab4.Controllers.CitizensAppealController.Index (lab4)'
+Request finished in 84.6373ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/ScheduleForWeek  
+Executing endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Route matched with {action = "Index", controller = "ScheduleForWeek"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.ScheduleForWeekController (lab4).
+Executing action method lab4.Controllers.ScheduleForWeekController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.ScheduleForWeekController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 4.9115ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 117.4982ms.
+Executed action lab4.Controllers.ScheduleForWeekController.Index (lab4) in 132.9011ms
+Executed endpoint 'lab4.Controllers.ScheduleForWeekController.Index (lab4)'
+Request finished in 160.854ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 15.7368ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 21.7936ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 60.5963ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 99.5716ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 POST http://localhost:44390/Genre application/x-www-form-urlencoded 235
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.Models.Genre) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 220.5957ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 9.2996ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 581.7284ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 653.2105ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?index=1  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 95.1559ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 12.0021ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 120.4595ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 147.4472ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?index=-1  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1867ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.036ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 15.7748ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 33.567ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?index=1  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.4138ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 5.4833ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 20.1821ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 180.837ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?index=-1  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.8658ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 7.4945ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 18.3559ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 42.3471ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Genre?index=-1  
+Executing endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Route matched with {action = "Index", controller = "Genre"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lab4.ViewModels.SortState, Int32) on controller lab4.Controllers.GenreController (lab4).
+Executing action method lab4.Controllers.GenreController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.GenreController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.9562ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 6.7749ms.
+Executed action lab4.Controllers.GenreController.Index (lab4) in 18.8734ms
+Executed endpoint 'lab4.Controllers.GenreController.Index (lab4)'
+Request finished in 43.6558ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/  
+Executing endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.Index (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.Index (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0444ms.
+Executing ViewResult, running view Index.
+Executed ViewResult - view Index executed in 99.5204ms.
+Executed action lab4.Controllers.HomeController.Index (lab4) in 110.3723ms
+Executed endpoint 'lab4.Controllers.HomeController.Index (lab4)'
+Request finished in 131.7789ms 200 text/html; charset=utf-8
+Request starting HTTP/1.1 GET http://localhost:44390/Home/About  
+Executing endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Route matched with {action = "About", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult About() on controller lab4.Controllers.HomeController (lab4).
+Executing action method lab4.Controllers.HomeController.About (lab4) - Validation state: Valid
+Executed action method lab4.Controllers.HomeController.About (lab4), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2007.7045ms.
+Executing ViewResult, running view About.
+Executed ViewResult - view About executed in 102.3175ms.
+Executed action lab4.Controllers.HomeController.About (lab4) in 2118.6283ms
+Executed endpoint 'lab4.Controllers.HomeController.About (lab4)'
+Request finished in 2157.0319ms 200 text/html; charset=utf-8

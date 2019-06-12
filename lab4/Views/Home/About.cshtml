@@ -1,0 +1,63 @@
+﻿@model lab4.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "About";
+}
+
+<div class="row">
+    <div>
+        <label>Шоу и длительность</label>
+        <table>
+            @{
+                foreach (TVShow i in Model.TVShows)
+                {
+                    <tr>
+                        <td>@i.NameShow</td>
+                        <td>@i.Duration</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    <div>
+        <label>ФИО и цель обращения</label>
+        <table>
+            @{
+                foreach (CitizensAppeal i in Model.CitizensAppeals)
+                {
+                    <tr>
+                        <td>@i.LFO</td>
+                        <td>@i.GoalOfRequest</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    <div>
+        <label>Жанр и описание</label>
+        <table>
+            @{
+                foreach (Genre i in Model.Genres)
+                {
+                    <tr>
+                        <td>@i.NameGenre</td>
+                        <td>@i.DescriptionOfGenre</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+    <div>
+        <label>Расписание</label>
+        <table>
+            @{
+                foreach (ScheduleForWeek i in Model.SchedulesForWeek)
+                {
+                    <tr>
+                        <td>@i.StartTime</td>
+                        <td>@i.GuestsEmployees</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>
